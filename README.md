@@ -1,7 +1,5 @@
 # Task-2-Data-Visualization
 
-# Task 2 - Data Visualization and Storytelling
-
 ## Tool Used
 Power BI Desktop
 
